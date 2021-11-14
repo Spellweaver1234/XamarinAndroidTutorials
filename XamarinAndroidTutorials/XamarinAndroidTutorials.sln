@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolBar", "..\ToolBar\ToolB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreenGIF", "..\SplashScreenGIF\SplashScreenGIF.csproj", "{CDBF8A73-D2F5-4A58-9D96-A5AA1B8E6103}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageSlidingTabStrip", "..\PageSlidingTabStrip\PageSlidingTabStrip.csproj", "{61BA9997-F55D-4F7F-B596-C6D6AF3F2374}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,12 @@ Global
 		{CDBF8A73-D2F5-4A58-9D96-A5AA1B8E6103}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDBF8A73-D2F5-4A58-9D96-A5AA1B8E6103}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CDBF8A73-D2F5-4A58-9D96-A5AA1B8E6103}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{61BA9997-F55D-4F7F-B596-C6D6AF3F2374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BA9997-F55D-4F7F-B596-C6D6AF3F2374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BA9997-F55D-4F7F-B596-C6D6AF3F2374}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{61BA9997-F55D-4F7F-B596-C6D6AF3F2374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BA9997-F55D-4F7F-B596-C6D6AF3F2374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BA9997-F55D-4F7F-B596-C6D6AF3F2374}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
